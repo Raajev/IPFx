@@ -1,5 +1,11 @@
 # IPFx
 Excel Based IP Functions
+############
+This edit as suggested by Adam Carrgilson from Norwich BioScience Institutes (https://www.nbi.ac.uk/)
+This Branch includes option to increment/decrement values  of more than 255 in one subnet. And required changes are carried out in higher subnet class.
+e.g. If in an IP address of 10.11.12.13, 256 is added, resultant value will be 10.11.13.13
+##################
+
 
 This VBA script includes common function to manipulate IP addresses. The IP address related functions in Add-in format which can be downloaded from this page (http://rajivbhardwaj.com/download/)
 
