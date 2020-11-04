@@ -7,7 +7,7 @@ Although, .xla format is not fully portable as excel sheets created by one user 
 
 This Add-in IPFx (IP functions) include following functions in present version (0.3).
 
-IP_Bits2Mask - Converts subnet bits to mask e.g. 29 to 255.255.255.248
+1. IP_Bits2Mask - Converts subnet bits to mask e.g. 29 to 255.255.255.248
 IP_ErrChk - Checks error in multiple cells to ensure IP plan does not have wrong subnets
 IP_Hosts - Calculates the hosts in a subnet
 IP_IP2Mbits -  Calculates the maskbits
